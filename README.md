@@ -1,3 +1,9 @@
+# Heads up
+Fast forwarded to 20.5
+Asks for a .ssh PW whenn attempting run
+Might need to roll back
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
